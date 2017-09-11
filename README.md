@@ -1,2 +1,2 @@
 # Ionic3
-Ionic3， 基于angular4.0的app前端开发框架
+Ionic3， 基于angular4和Typescript的app前端开发框架

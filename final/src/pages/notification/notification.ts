@@ -8,7 +8,7 @@ import { DetailsPage } from '../details/details';
 @IonicPage()
 @Component({
   selector: 'page-notification',
-  templateUrl: 'notification.html',
+  templateUrl: 'notification.html'
 })
 export class NotificationPage extends BaseUI {
 
